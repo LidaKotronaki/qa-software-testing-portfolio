@@ -27,6 +27,13 @@ The documented testing scope includes:
 - Feedback messages and final score
 - Retesting after fixes
 
+## Defect Tracking Evidence
+
+Jira defect records for this project are documented in the screenshots below. Each issue is split into two screenshots to show the full issue details.
+
+- **SCRUM-6:** [Part 1](evidence/SCRUM-6-1.png) · [Part 2](evidence/SCRUM-6-2.png)
+- **SCRUM-7:** [Part 1](evidence/SCRUM-7-1.png) · [Part 2](evidence/SCRUM-7-2.png)
+
 ## Test Environment
 
 - **Operating system:** Windows 10
