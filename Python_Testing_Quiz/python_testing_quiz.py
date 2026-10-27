@@ -1,7 +1,7 @@
 import textwrap
 questions = [
     {
-        "question": "Which of the following statements describe a valid test ojective?",
+        "question": "Which of the following statements describe a valid test objective?",
         "options": [
             "A. To prove there are no unfixed defects in the system under test",
             "B. To prove that there will be no failures after the implementation of the system into production",
@@ -38,8 +38,8 @@ questions = [
         "options": [
             "A. Estimating that testing the integration with the payment service will take 8-person days",
             "B. Deciding that the team should test if it is possible to properly share payment between many users",
-            "C. Using boundary value analysis (BDA) to derive the test data for the test cases that check the correct payment processing for the minimum allowed amount to be paid",
-            "D. Analyzing the discrepancy between the actual result and expected result after executing a test case that checks the process of payment with a credit crd, and reporting a defect",
+            "C. Using boundary value analysis (BVA) to derive the test data for the test cases that check the correct payment processing for the minimum allowed amount to be paid",
+            "D. Analyzing the discrepancy between the actual result and expected result after executing a test case that checks the process of payment with a credit card, and reporting a defect",
         ],
         "answer": "B",
 
@@ -50,7 +50,7 @@ questions = [
             "A. i, ii have significant influence",
             "B. i, iii, iv have significant influence",
             "C. ii, iv, v have significant influence",
-            "D. iii,v have significant influence",
+            "D. iii, v have significant influence",
         ],
         "answer": "B",
 
@@ -94,7 +94,6 @@ if __name__ == "__main__":
     play_quiz()
     input("\nPress Enter to exit...")
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
 
 
